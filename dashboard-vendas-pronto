@@ -1,0 +1,45 @@
+# 📊 Desafio: Dashboard de Vendas no Excel
+
+## 🎯 Objetivo
+Criar um dashboard de vendas utilizando o Excel, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, facilitando a análise do desempenho de vendas.
+
+---
+
+## 🗂 Arquivos do Projeto
+- dashboard_vendas_pronto.xlsx: arquivo Excel com o dashboard completo.
+- base.xlsx (não incluso aqui): base de dados original fornecida no desafio.
+
+---
+
+## 🧰 Ferramentas Utilizadas
+- Microsoft Excel
+- Tabelas Dinâmicas
+- Gráficos Dinâmicos
+- Segmentações de Dados (Filtros Interativos)
+
+---
+
+## 📌 Recursos Visuais Criados
+- Gráfico de vendas por produto
+- Comparativo de metas vs. realizado
+- Filtros por região, período e vendedor
+- Total de vendas acumuladas
+
+---
+
+## 🔁 Como Reproduzir
+1. Baixe o arquivo dashboard_vendas_pronto.xlsx.
+2. Abra no Excel (versão 2016 ou superior).
+3. Utilize os filtros para explorar os dados de forma interativa.
+
+---
+
+## 📎 Link do Dashboard Final
+📂 [Clique aqui para baixar o arquivo Excel com o dashboard](dashboard_vendas_pronto.xlsx)
+
+---
+
+## 💬 Contato
+Caso tenha dúvidas ou sugestões, entre em contato comigo aqui pelo GitHub.
+
+---
